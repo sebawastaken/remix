@@ -28,7 +28,7 @@ setuptools.setup(
         "prettytable==3.7.0",
         "pscript==0.7.7",
         "PyYAML==6.0",
-        "rpy2==3.5.11",
+        "rpy2>=3.5.11",
         "scikit-learn==1.2.2",
         "scipy==1.9.1",
         "tensorboard-plugin-wit==1.8.1",
