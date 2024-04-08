@@ -31,7 +31,7 @@ setuptools.setup(
         "rpy2==3.5.11",
         "scikit-learn==1.2.2",
         "scipy==1.9.1",
-        "tensorboard-plugin-wi==1.8.1",
+        "tensorboard-plugin-wit==1.8.1",
         "tensorboard==2.12.2",
         "tensorflow-estimator==2.12.0",
         "tensorflow==2.12.0",
