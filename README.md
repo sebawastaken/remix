@@ -25,7 +25,7 @@ by [Flexx](https://github.com/flexxui/flexx).
 ## Setup
 In order to install this library,  you will need the following requirements
 first:
-- apt-get update && apt-get install -y --no-install-recommends git make build-essential libcurl4-gnutls-dev libxml2-dev libssl-dev libatlas-base-dev gfortran
+- apt install make build-essential libcurl4-gnutls-dev libxml2-dev libssl-dev libatlas-base-dev gfortran libz-dev libbz2-dev liblzma-dev libpcre2-dev r-base
 
 second:
 - `python` 3.5 – 3.8
